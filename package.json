@@ -1,0 +1,15 @@
+{
+  "name": "push.js",
+  "description": "A Node.JS application to push data from one machine to a list of machines",
+  "version": "0.1.0",
+  "author": "Sam Hon",
+  "main": "app/push.js",
+  "repository": {
+    "type": "git",
+    "url": "https://coffeesam@github.com/coffeesam/push.js.git"
+  },
+  "dependencies": {
+    "start-stop-daemon": "0.0.2"
+  },
+  "devDependencies": {}
+}
