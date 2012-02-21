@@ -9,7 +9,9 @@
     "url": "https://coffeesam@github.com/coffeesam/push.js.git"
   },
   "dependencies": {
-    "start-stop-daemon": "0.0.2"
+    "start-stop-daemon": "0.0.2",
+    "watch": "~0.5.0"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "engine": "node >= 0.6.x"
 }
