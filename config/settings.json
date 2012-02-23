@@ -1,1 +1,7 @@
-{}
+{
+    "path"        : "/Users/sam/workspace/push.js/test/",
+    "host"        : "10.0.0.87",
+    "destination" : "~/apps/two-clicks/db/import/",
+    "interval"    : 250,
+    "delay"       : 30000
+}

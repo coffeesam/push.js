@@ -1,4 +1,22 @@
+## MAC OS
+.DS_Store
+
+## NIDE
 .nide
+
+## VIM
+*.swp
+
+## PROJECT::GENERAL
+logs
+log
+tmp
+node_modules
+
+## DAEMON::OUTPUT
 *.log
 *.err
 *.out
+
+## PROJECT::SPECIFIC
+test/
